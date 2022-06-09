@@ -1,0 +1,18 @@
+.backdrop {
+    max-height: 600px;
+    height: 600px;
+    display: flex;
+    background-color: var(--purple_main);
+}
+
+@media screen and (min-width: 1440px) {
+    .backdrop {
+        background-color: black;
+    }
+}
+
+@media screen and (max-width: 1250px) {
+    .backdrop {
+        background-color: white;
+    }
+}

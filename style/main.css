@@ -1,0 +1,25 @@
+:root {
+    --logo_blue_light: #768DF6;
+    --logo_blue_dark: #5271FF;
+    --blue_light: #9DAFFF;
+    --blue_dark: #415FE4;
+    --purple_main: #7957BD;
+    --purple_light: #8661CF;
+    --purple_dark: #59389B;
+}
+
+.disable-select {
+    user-select: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+}
+
+html {
+    font-size: 20px;
+    font-family: sans-serif;
+}
+    body {
+        margin: 0;
+    }
