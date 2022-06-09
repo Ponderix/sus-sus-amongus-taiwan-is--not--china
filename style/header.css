@@ -47,10 +47,7 @@ header {
         }
         .nav__page--donate a {line-height: 2}
         .nav__page--donate a:hover {line-height: 2}
-
-@media screen and (min-width: 1440px) {
-
-    }
+        
 
 @media screen and (max-width: 1250px) {
     .nav__logo {
